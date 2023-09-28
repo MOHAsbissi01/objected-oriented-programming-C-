@@ -2,16 +2,16 @@
 #include "Compte.h"
 using namespace std;
 
-    void saisir(){
-        cout << "Enter your account number" ;
+    void Compte:: saisir(){
+        cout << "Enter your account number: " << endl;
         cin >> numCompte ;
-        cout << "Enter your account name" ;
+        cout << "Enter your account name :"<< endl ;
         cin >> nomProp ;
-        cout << "Enter your account Solde" ;
+        cout << "Enter your account Solde : " << endl;
         cin >> solde ;
 
     }
-    bool retirerArgent(float montant ){
+    bool Compte:: retirerArgent(float montant ){
         if (montant <= solde)
         {
             solde-=montant ;
@@ -20,15 +20,15 @@ using namespace std;
         else
             return false ;
     }
-    void deposerArgent(float montant){
+    void Compte:: deposerArgent(float montant){
         solde += montant ;
     }
-    void consulterSolde(){
+    void Compte:: consulterSolde(){
         cout << "Account number " << numCompte << endl ;
-        cout << "Account name " << nomProp << endl ;
+        cout << "Account name "  << nomProp << endl ;
         cout << "Account Solde " << solde << endl ;
     }
-    bool transfererArgent(Compte&c, float montant){
+    bool Compte:: transfererArgent(Compte&c, float montant){
         if (retirerArgent(montant)){
         c.solde+=montant ;
         return true ;

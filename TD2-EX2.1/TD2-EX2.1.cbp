@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Compte.cpp" />
+		<Unit filename="Compte.h" />
+		<Unit filename="banque.cpp" />
+		<Unit filename="banque.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>

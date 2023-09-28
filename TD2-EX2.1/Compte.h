@@ -16,8 +16,8 @@ public :
     void consulterSolde();
     bool transfererArgent(Compte&c, float montant);
 
-    float getSolde(){return numCompte} ;
-    void setSolde(double s){solde=s};
+    float getSolde(){return numCompte;} ;
+    void setSolde(double s){solde=s;};
 };
 
 #endif // COMPTE_H_INCLUDED

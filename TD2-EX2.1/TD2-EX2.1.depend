@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1695908478 source:c:\users\sbiss\onedrive\bureau\semester3\c++_module\codeblocks\td2\td2-ex2.1\banque.cpp
+	<iostream>
+	"banque.h"
+
+1695909449 c:\users\sbiss\onedrive\bureau\semester3\c++_module\codeblocks\td2\td2-ex2.1\banque.h
+	"Compte.h"
+
+1695908109 source:c:\users\sbiss\onedrive\bureau\semester3\c++_module\codeblocks\td2\td2-ex2.1\main.cpp
+	<iostream>
+	"Compte.h"
+
+1695906152 c:\users\sbiss\onedrive\bureau\semester3\c++_module\codeblocks\td2\td2-ex2.1\compte.h
+
+1695906362 source:c:\users\sbiss\onedrive\bureau\semester3\c++_module\codeblocks\td2\td2-ex2.1\compte.cpp
+	<iostream>
+	"Compte.h"
+
