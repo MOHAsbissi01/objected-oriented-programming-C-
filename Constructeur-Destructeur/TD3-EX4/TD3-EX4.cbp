@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Voyage.cpp" />
+		<Unit filename="Voyage.h" />
+		<Unit filename="hebergement.cpp" />
+		<Unit filename="hebergement.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
