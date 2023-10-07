@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1696683123 source:c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\constructeur-destructeur\td3-ex4\main.cpp
+	<iostream>
+	<string>
+	"Hebergement.h"
+	"Voyage.h"
+
+1696683110 c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\constructeur-destructeur\td3-ex4\hebergement.h
+	<string>
+
+1696683123 c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\constructeur-destructeur\td3-ex4\voyage.h
+	<string>
+	"Hebergement.h"
+
+1696683123 source:c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\constructeur-destructeur\td3-ex4\voyage.cpp
+	<iostream>
+	"Hebergement.h"
+
+1696683194 source:c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\constructeur-destructeur\td3-ex4\hebergement.cpp
+	<iostream>
+	"Voyage.h"
+	"Hebergement.h"
+
