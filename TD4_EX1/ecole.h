@@ -4,18 +4,18 @@
 #include <string>
 using namespace std ;
 
-class Classe
+class Ecole
 {
     private:
-        string nom;
         vector<Etudiant> etudiants;
     public:
-        Classe(string nom);
+        Ecole();
+        ~Ecole();
         void ajouterEtudiant(Etudiant e);
-        void afficherEtudiants();
+        void afficher();
         bool rechercherEtudiant(int id);
-        void supprimerEtudiant(int id);
-        void rechercherEtudiantsClasse(string classe);
+        void supprimer(int id);
+        void rechercherAfficherClasse(string classe);
 };
 
 #endif // ECOLE_H_INCLUDED

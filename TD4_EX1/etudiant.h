@@ -6,21 +6,22 @@
 #include "Etudiant.h"
 using namespace std;
 
-
-class Classe
+class Etudiant
 {
     private:
         string nom;
-        vector<Etudiant> etudiants;
+        string adresse;
+        string classe;
+        string dateNaissance;
+        int id;
     public:
-        Classe(string nom);
-        void ajouterEtudiant(Etudiant e);
-        void afficherEtudiants();
-        void rechercherEtudiant(int id);
-        void supprimerEtudiant(int id);
-        void rechercherEtudiantsClasse(string classe);
+        Etudiant();
+        Etudiant(string nom, string adresse, string classe, string dateNaissance, int id);
+        ~Etudiant();
+        void afficherEtudiant();
+        int getId();
+        string getClasse();
 };
-
 
 #endif // ETUDIANT_H_INCLUDED
 
