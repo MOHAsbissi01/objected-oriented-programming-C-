@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include "ecole.h"
+#include "etudiant.h"
 using namespace std;
 
 Etudiant::Etudiant()
@@ -13,19 +13,24 @@ Etudiant::Etudiant()
     this->dateNaissance"";
 
 }
-Etudiant::Etudiant(string nom, string adresse, string classe, string dateNaissance, int id)
-{
+etudiant::Etudiant(int CIN,string classe, string dateN , string nom, string adresse)
+    {
+        this->CIN=CIN;
+        this->classe=classe;
+        this->dateN=dateN;
+        this->nom=nom;
+        this->adresse=adresse;
+    }
 
 
-}
-Etudiant:~Etudiant()
-{
-
-}
-void Etudiant::afficherEtudiant()
-{
-
-}
+    void Etudiant::afficher()
+    {
+        cout<<"CIN : "<<CIN<<endl;
+        cout<<"classe : "<<classe<<endl;
+        cout<<"date de naissance : "<<dateN<<endl;
+        cout<<"nom : "<<nom<<endl;
+        cout<<"adresse : "<<adresse<<endl;
+    }
 int getId()
 {
     return  ;

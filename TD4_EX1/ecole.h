@@ -13,7 +13,7 @@ class Ecole
         ~Ecole();
         void ajouterEtudiant(Etudiant e);
         void afficher();
-        bool rechercherEtudiant(int id);
+        void rechercherEtudiant(int id);
         void supprimer(int id);
         void rechercherAfficherClasse(string classe);
 };
