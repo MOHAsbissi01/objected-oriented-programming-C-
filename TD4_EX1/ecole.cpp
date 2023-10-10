@@ -41,4 +41,6 @@ void Ecole::supprimerEtudiant(int id)
 void Ecole::rechercherAfficherClasse(string classe)
 {
 
+
+
 }
