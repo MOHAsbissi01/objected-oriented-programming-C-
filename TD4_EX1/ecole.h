@@ -10,8 +10,8 @@ class Ecole
     private:
         vector<Etudiant> etudiants;
     public:
-        Ecole();
-        ~Ecole(){};
+        Ecole(){};
+        ~Ecole(){} ;
         void ajouterEtudiant(Etudiant e);
         void afficher();
         void rechercherEtudiant(int id);

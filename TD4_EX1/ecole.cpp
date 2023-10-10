@@ -1,47 +1,54 @@
 #include <iostream>
-#include <string>
 #include <vector>
+#include <string>
+#include "etudiant.h"
 #include "ecole.h"
 using namespace std;
 
-void Ecole::ajouterEtudiant(Etudiant e)
+vectorEcole :: chercherEtudiant(int id)
 {
-    etudiants.push_back(e);
+    vector<Etudiant> :: iterator it;
+    for(it=v.begin(); it != v.end(); it++)
+        if((*it).getcin()==id)
+            return true;
+    return false;
 }
 
-void Ecole::afficher()
+void Ecole :: ajouter (Etudiant e)
 {
-    for(int i=0; i<etudiants.size(); i++)
-    {
-        etudiants[i].afficherEtudiant();
-    }
+    if (!chercherEtudiant(E.getcin()))
+        v.push_back(e);
 }
 
-bool Ecole::rechercherEtudiant(int id)
+void Ecole :: afficher()
 {
-    for (int i=0 ; i<etudiant.size():i++)
-    {
-        if(etudiant[i].getId()==id)
-            return true ;
-    }
-    else
-        return false ;
+    vector <Etudiant> :: iterator it;
+    for(it=v.begin(); it !=v.end(); i++)
+        (*it).afficher();
 }
 
-void Ecole::supprimerEtudiant(int id)
+void Ecole :: supprimer(int id)
 {
-  for(int i=0 ; i<etuddiant.size();i++)
-  {
-      if(etudiant[i].getId()==id)
-        etudiant.erase(etudiant.begin+i)
-  }
+    if(chercherEtudiant(id))
+        vector<Etudiant> :: iterator
+        Ecole :: chercherEtudiant(int id)
+        vector<Etudiant> :: iterative it;
+    for(it=v.begin(); it != v.end(); it++)
+        if((*it).getcin()==id)
+        return it;
+    return v.end();
 }
 
-
-void Ecole::rechercherAfficherClasse(string classe)
+void Ecole :: supprimer(int id)
 {
-
-
-
-
+    if(chercherEtudiant(id) != cin)
+        v.erase(chercherEtudiant(it));
 }
+void Ecole :: chercherAfficherClasse(string c)
+{
+    vector<Etudiant> :: iterator it;
+    for(it=v.begin(); it !=v.end())
+        if (it->getclasse()==e)
+        it->afficher()   ;
+}
+
