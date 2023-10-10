@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -23,7 +24,7 @@ etudiant::Etudiant(int CIN,string classe, string dateN , string nom, string adre
     }
 
 
-    void Etudiant::afficher()
+void Etudiant::afficher()
     {
         cout<<"CIN : "<<CIN<<endl;
         cout<<"classe : "<<classe<<endl;
@@ -33,11 +34,11 @@ etudiant::Etudiant(int CIN,string classe, string dateN , string nom, string adre
     }
 int getId()
 {
-    return  ;
+    return Id ;
 }
 string getClasse()
 {
 
-    return  ;
+    return classe ;
 }
 
