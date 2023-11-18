@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1700335660 source:c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\banque.cpp
+	"banque.h"
+
+1700335589 source:c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\main.cpp
+	<iostream>
+	"Banque.h"
+	"CompteEpargne.h"
+	"CompteCourant.h"
+
+1700330887 source:c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\comptecourant.cpp
+	"CompteCourant.h"
+
+1700309277 source:c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\compte.cpp
+	"Compte.h"
+
+1700335324 c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\compte.h
+	<iostream>
+	<string>
+
+1700311062 source:c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\compteepargne.cpp
+	"CompteEpargne.h"
+
+1700311784 c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\compteepargne.h
+	<iostream>
+	<string>
+	"Compte.h"
+
+1700330713 c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\comptecourant.h
+	<iostream>
+	<string>
+	"Compte.h"
+
+1700334379 c:\users\sbiss\onedrive\bureau\github\objected-oriented-programming-c-\polymophisme\bank+\banque\banque.h
+	<iostream>
+	<string>
+	<vector>
+	"Compte.h"
+	"CompteEpargne.h"
+	"CompteCourant.h"
+
