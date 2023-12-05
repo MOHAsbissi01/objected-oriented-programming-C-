@@ -78,90 +78,25 @@ void NotesManager::ajouter(const Tag & tag)
     nbTags++;
 }
 
-void NotesManager::enregistrer(string a){
-    ofstream f(a+"FILE.txt");
-    if(f){
-        vector<Note*>::iterator it;
-        for(it = Vnote.begin();it !=Vnote.end();it++){
-            if(a == (*it)->getobj()){
-                f<<"description"<<(*it)->getdesc();
-                f<<"date"<<(*it)->getdate();
+void NotesManager::enregistrer(string a) {
+    ofstream f(a + "FILE.txt", ios::app);  // Open the file in append mode
+    if (f) {
+        vector<Note*>::reverse_iterator rit;  // Use reverse iterator to iterate from the last point
+        for (rit = Vnote.rbegin(); rit != Vnote.rend(); ++rit) {
+            if (a == (*rit)->getobj()) {
+                f << "description" << (*rit)->getdesc() << endl;
+                f << "date" << (*rit)->getdate() << endl;
             }
         }
         f.close();
-    }else{
-        cout<<"file not open"<<endl;
-    }
- }
-
-
-
-
-void NotesManager::load(string filename) // 
-{  
-     ifstream f(filename.c_str());
-    if (!f.is_open()) {
-        cout << "Failed to open the file." << endl;
-        return;
-    }
-    ifstream f(filename.c_str());
-    if(f){
-        string line;
-        while(getline(f,line)){
-            if(line=="description"){
-                getline(f,line);
-                string description = line;
-                getline(f,line);
-                string date = line;
-                getline(f,line);
-                string objet = line;
-                Note *n = new Note();
-                n->setdesc(description);
-                n->setdate(date);
-                n->setobj(objet);
-                Vnote.push_back(n);
-            }
-        }
-        f.close();
-    }else{
-        cout<<"file not open"<<endl;
+    } else {
+        cout << "File not open" << endl;
     }
 }
 
  
 
-void NotesManager::afficher()
-{
-    for (int i = 0; i < nbNotes; i++)
-    {
-        notes[i]->affiche();
-    }
-    for (int i = 0; i < nbTags; i++)
-    {
-        tags[i]->affiche();
-    }
-}
+
 
 
  
-
-
-
-
-
-
-/*On application destine de
-( mue est un i.knti fiant, ohjet, une description et la dale de prise
-note.
-U tag une note cpi en plus contieat k' nom de la personne taguée (cooceroée piu
-cete note) _
-La classe NotesMauager •en*tuble des 'Kites et des tags,
-aux besoins :
-ajouter (
-Aioulcr un tag. Unc scru si I
-enisle déJå Véntieat.on d•un.cilö.
-4. fxhicr
-donné ea parametre, Le comme I 'objet la note.
-S. Affichet lcs descriptions caregis.trécs lots d'urx teuniån
-préeédenre donnée 'Oet.*/
-
