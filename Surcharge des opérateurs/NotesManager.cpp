@@ -60,10 +60,7 @@ void NotesManager::ajouter(const Note & note)
     nbNotes++;
 }
 
-
-
  
-
 void NotesManager::ajouter(const Tag & tag)
 {
     if (nbTags == nbMaxTags)
@@ -81,8 +78,7 @@ void NotesManager::ajouter(const Tag & tag)
     nbTags++;
 }
 
-
-
+ 
 void NotesManager::enregistrer(string filename)
 {
     ofstream f(filename.c_str());
