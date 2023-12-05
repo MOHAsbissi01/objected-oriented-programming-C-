@@ -43,20 +43,6 @@ void NotesManager::chercherNote()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*.
 void NotesManager::ajouter(const Note & note)
 {
     if (nbNotes == nbMaxNotes)
@@ -74,27 +60,9 @@ void NotesManager::ajouter(const Note & note)
     nbNotes++;
 }
 
-*/
 
 
-
-
-void NotesManager::ajouter(const Note & note)
-{
-    if (nbNotes == nbMaxNotes)
-    {
-        Note ** newNotes = new Note*[nbMaxNotes + 5];
-        for (int i = 0; i < nbNotes; i++)
-      
-
-
-
-
-
-
-
-
-
+ 
 
 void NotesManager::ajouter(const Tag & tag)
 {
