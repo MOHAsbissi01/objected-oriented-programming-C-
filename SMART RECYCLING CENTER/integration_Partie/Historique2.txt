@@ -1,0 +1,35 @@
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:23:52 2023 Action: Modification de statut Cout: 0 Status: zz
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:23:58 2023 Action: Modification de statut Cout: 0 Status: zzz
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:45:59 2023 Action: Modification de statut Cout: 0 Status: sssss
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:46:08 2023 Action: Modification de statut Cout: 0 Status: sssss
+ID: 1 Nom:  Type:  Date: mer. nov. 15 18:54:36 2023 Action: Modification de statut Cout: 0 Status: Work
+ID: 1 Nom:  Type:  Date: mer. nov. 15 18:54:44 2023 Action: Modification de statut Cout: 0 Status: zzzzzz
+ID: 1 Nom:  Type:  Date: mer. nov. 15 18:59:12 2023 Action: Modification de statut Cout: 0 Status: Not Working
+ID: 1 Nom:  Type:  Date: mer. nov. 15 19:01:29 2023 Action: Modification de statut Cout: 0 Status: SSS
+ID: 1 Nom:  Type:  Date: mer. nov. 15 19:03:12 2023 Action: Modification de statut Cout: 0 Status: Working
+ID: 1 Nom:  Type:  Date: mer. nov. 15 19:13:06 2023 Action: Modification de statut Cout: 0 Status: Work
+ID: 22 Nom:  Type:  Date: jeu. nov. 16 18:34:49 2023 Action: Modification de statut Cout: 0 Status: Not Working Durabilite: 
+ID: 22 Nom:  Type:  Date: jeu. nov. 16 18:39:05 2023 Action: Modification de statut Cout: 0 Status: Working Durabilite: 
+ID: 5 Nom:  Type:  Date: jeu. nov. 16 18:40:24 2023 Action: Modification de statut Cout: 0 Status: ss Durabilite: 
+ID: 5 Nom:  Type:  Date: jeu. nov. 16 18:43:04 2023 Action: Modification de statut Cout: 0 Status: test1 Durabilite: 
+ID: 5 Nom:  Type:  Date: jeu. nov. 16 18:50:27 2023 Action: Modification de statut Cout: 0 Status: var Durabilite: 
+ID: 5 Nom:  Type:  Date: jeu. nov. 16 19:08:52 2023 Action: Modification de statut Cout: 0 Status: zkzk Durabilite: 
+ID: 1 Nom:  Type:  Date: jeu. nov. 16 19:28:54 2023 Action: Modification de statut Cout: 0 Status: cvv Durabilite: 
+ID: 1 Nom:  Type:  Date: jeu. nov. 16 19:32:19 2023 Action: Modification de statut Cout: 0 Status: aa Durabilite: 
+ID: 1 Nom:  Type:  Date: jeu. nov. 16 19:52:06 2023 Action: Modification de statut Cout: 0 Status: aaaaaa Durabilite: 
+ID: 1 Nom:  Type:  Date: jeu. nov. 16 19:56:28 2023 Action: Modification de statut Cout: 0 Status: aaaaaaa Durabilite: 
+ID: 1 Nom:  Type:  Date: jeu. nov. 16 20:24:47 2023 Action: Modification de statut Cout: 0 Status: aaaaa Durabilite: 
+ID: 1 Nom:  Type:  Date: ven. nov. 17 09:45:24 2023 Action: Modification de statut Cout: 0 Status: Not Working Durabilite: 
+ID: 1 Nom:  Type:  Date: ven. nov. 17 09:49:18 2023 Action: Modification de statut Cout: 0 Status: Working Durabilite: 
+ID: 1 Nom:  Type:  Date: ven. nov. 17 09:50:06 2023 Action: Modification de statut Cout: 0 Status: Not Working Durabilite: 
+ID: 1 Nom:  Type:  Date: ven. nov. 17 09:53:27 2023 Action: Modification de statut Cout: 0 Status: Working Durabilite: 
+ID: 5 Nom:  Type:  Date: ven. nov. 17 11:17:45 2023 Action: Modification de statut Cout: 0 Status: Not Working Durabilite: 
+ID: 5 Nom:  Type:  Date: ven. nov. 17 11:19:42 2023 Action: Modification de statut Cout: 0 Status: aaa Durabilite: 
+ID: 12 Nom:  Type:  Date: ven. nov. 17 12:29:56 2023 Action: Modification de status Cout: 0 Status: Panne logiciel Durabilite: 
+ID: 1 Nom:  Type:  Date: Wed Dec 6 01:37:28 2023 Action: Modification de status Cout: 0 Status: ERR1 Durabilite: 
+ID: 1 Nom:  Type:  Date: Wed Dec 6 01:37:53 2023 Action: Modification de status Cout: 0 Status: dthtr Durabilite: 
+ID: 1 Nom:  Type:  Date: Wed Dec 6 01:40:52 2023 Action: Modification de status Cout: 0 Status: hte Durabilite: 
+ID: 1 Nom:  Type:  Date: Wed Dec 6 01:43:32 2023 Action: Modification de status Cout: 0 Status: th Durabilite: 
+ID: 1 Nom:  Type:  Date: Wed Dec 6 01:43:52 2023 Action: Modification de status Cout: 0 Status: fh Durabilite: 
+ID: 1 Nom:  Type:  Date: Wed Dec 6 02:03:07 2023 Action: Modification de status Cout: 0 Status: XX Durabilite: 
+ID: 1 Nom:  Type:  Date: Wed Dec 6 02:09:02 2023 Action: Modification de status Cout: 0 Status: XX Durabilite: 

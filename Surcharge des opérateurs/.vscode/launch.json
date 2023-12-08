@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/sbiss/OneDrive/Bureau/GitHub/objected-oriented-programming-C-/Surcharge des opérateurs",
+      "program": "c:/Users/sbiss/OneDrive/Bureau/GitHub/objected-oriented-programming-C-/Surcharge des opérateurs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

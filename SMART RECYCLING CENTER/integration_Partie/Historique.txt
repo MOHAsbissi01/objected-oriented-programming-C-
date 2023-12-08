@@ -1,0 +1,108 @@
+ cin employe: 1 Référence commande: a montant: 1 Date de l'action: sam. nov. 11 14:26:10 2023 Action: Ajout
+ cin employe: 1 Référence commande:  montant: 0 Date de l'action: sam. nov. 11 14:26:15 2023 Action: Suppression
+ID: 94 Nom: Rohff Type: Rap Date: lun. nov. 13 20:05:42 2023 Action: Ajout Cout: 299 Status: Marche
+ID: 94 Nom: ROhff Type: Puissance Date: lun. nov. 13 20:06:01 2023 Action: Modification Cout: 1 Status: marche
+ID: 32 Nom: ss Type: sssss Date: lun. nov. 13 20:12:10 2023 Action: Ajout Cout: 2 Status: ssss
+ID: 2222222 Nom: dddddddddd Type: dddddddd Date: lun. nov. 13 20:14:24 2023 Cout: 2 Status: ddddd
+ Action: AjoutID: 94 Nom:  Type:   Date: mar. nov. 14 11:34:25 2023 Action: Suppression Cout: 0 Status: 
+ID: 32 Nom:  Type:   Date: mar. nov. 14 11:34:38 2023 Action: Suppression Cout: 0 Status: 
+ID: 2222222 Nom:  Type:   Date: mar. nov. 14 11:34:41 2023 Action: Suppression Cout: 0 Status: 
+ID: 0 Nom:  Type:  Date: mer. nov. 15 16:55:02 2023 Action: Modification de statut Cout: 0 Status: not working
+ID: 0 Nom:  Type:  Date: mer. nov. 15 16:55:13 2023 Action: Modification de statut Cout: 0 Status: not working
+ID: 0 Nom:  Type:  Date: mer. nov. 15 16:55:45 2023 Action: Modification de statut Cout: 0 Status: ss
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:03:24 2023 Action: Modification de statut Cout: 0 Status: not working
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:03:36 2023 Action: Modification de statut Cout: 0 Status: not working
+ID: 4 Nom: Ez Type:  Date: mer. nov. 15 17:06:44 2023 Action: Modification Cout: 0 Status: 
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:07:26 2023 Action: Modification de statut Cout: 0 Status: Working
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:16:14 2023 Action: Modification de statut Cout: 0 Status: s
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:16:21 2023 Action: Modification de statut Cout: 0 Status: s
+ID: 0 Nom:  Type:  Date: mer. nov. 15 17:16:25 2023 Action: Modification de statut Cout: 0 Status: s
+ID: 1 Nom: PC Type: Ordinateur Date: mer. nov. 15 17:54:48 2023 Action: Ajout Cout: 50 Status: Working
+ID: 1 Nom: PC Dell Type: Ordinateur Date: mer. nov. 15 17:55:05 2023 Action: Modification Cout: 0 Status: Not Working
+ID: 1 Nom:  Type:   Date: mer. nov. 15 18:04:11 2023 Action: Suppression Cout: 0 Status: 
+ID: 1 Nom: ssssss Type: sssss Date: mer. nov. 15 18:04:19 2023 Action: Ajout Cout: 2 Status: ssssss
+ID: 0 Nom:  Type:   Date: mer. nov. 15 18:04:23 2023 Action: Modification Cout: 0 Status: 
+ID: 0 Nom:  Type:   Date: mer. nov. 15 18:04:35 2023 Action: Modification Cout: 0 Status: 
+ID: 0 Nom:  Type:   Date: mer. nov. 15 18:04:49 2023 Action: Modification Cout: 0 Status: 
+ID: 0 Nom:  Type:   Date: mer. nov. 15 18:05:56 2023 Action: Modification Cout: 0 Status: 
+ID: 0 Nom:  Type:   Date: mer. nov. 15 18:06:06 2023 Action: Modification Cout: 0 Status: 
+ID: 0 Nom:  Type:   Date: mer. nov. 15 18:06:10 2023 Action: Modification Cout: 0 Status: 
+ID: 1 Nom: XXXXX Type: XXXXXX Date: mer. nov. 15 18:06:46 2023 Action: Modification Cout: 2 Status: XXXXXX
+ID: 1 Nom: sssssss Type:  Date: mer. nov. 15 18:14:15 2023 Action: Modification Cout: 0 Status: 
+ID: 1 Nom:  Type:   Date: mer. nov. 15 18:14:38 2023 Action: Suppression Cout: 0 Status: 
+ID: 1 Nom: HP  Type: PC Date: mer. nov. 15 18:16:21 2023 Action: Ajout Cout: 30 Status: Work
+ID: 1 Nom: DELL Type:  Date: mer. nov. 15 18:16:30 2023 Action: Modification Cout: 0 Status: 
+ID: 1 Nom:  Type:  Date: mer. nov. 15 18:16:47 2023 Action: Modification Cout: 300 Status: 
+ID: 1 Nom:  Type:   Date: mer. nov. 15 18:20:37 2023 Action: Suppression Cout: 0 Status: 
+ID: 1 Nom: HP Type: PC Date: mer. nov. 15 18:20:49 2023 Action: Ajout Cout: 20 Status: Working
+ID: 1 Nom: Toshiba Type:  Date: mer. nov. 15 18:29:55 2023 Action: Modification Cout: 0 Status: 
+ID: 1 Nom:  Type:  Date: mer. nov. 15 18:38:45 2023 Action: Modification Cout: 0 Status: Not Working
+ID: 1 Nom:  Type:   Date: mer. nov. 15 18:58:35 2023 Action: Suppression Cout: 0 Status: 
+ID: 1 Nom: Toshiba Type: PC Date: mer. nov. 15 18:58:51 2023 Action: Ajout Cout: 300 Status: Working
+ID: 1 Nom: Toshii Type:  Date: mer. nov. 15 18:59:01 2023 Action: Modification Cout: 0 Status: 
+ID: 1 Nom:  Type:  Date: mer. nov. 15 19:01:22 2023 Action: Modification Cout: 300 Status: 
+ID: 1 Nom:  Type: PC Date: mer. nov. 15 19:01:40 2023 Action: Modification Cout: 0 Status: 
+ID: 1 Nom:  Type:   Date: mer. nov. 15 19:03:21 2023 Action: Suppression Cout: 0 Status: 
+ID: 1 Nom: HP Type: PC Date: mer. nov. 15 19:03:34 2023 Action: Ajout Cout: 300 Status: Working
+ID: 1 Nom: Pavillon Type:  Date: mer. nov. 15 19:05:44 2023 Action: Modification Cout: 0 Status: 
+ID: 1 Nom:  Type:   Date: mer. nov. 15 19:07:29 2023 Action: Suppression Cout: 0 Status: 
+ID: 1 Nom: SSS Type: SSS Date: mer. nov. 15 19:07:44 2023 Action: Ajout Cout: 11 Status: SS
+ID: 22 Nom: HP Pavillon Type: Ordinateur Date: jeu. nov. 16 18:27:27 2023 Action: Ajout Cout: 200 Status: Working Durabilite: 1
+ID: 22 Nom:  Type:  Date: jeu. nov. 16 18:34:15 2023 Action: Modification Cout: 0 Status:  Durabilite: 1 an
+ID: 22 Nom:  Type:  Date: jeu. nov. 16 18:38:52 2023 Action: Modification Cout: 10 Status:  Durabilite: 
+ID: 22 Nom:  Type:   Date: jeu. nov. 16 18:39:37 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: BB Type: Ez Date: jeu. nov. 16 18:39:54 2023 Action: Ajout Cout: 10 Status: ss Durabilite: 1 a
+ID: 5 Nom: az Type:  Date: jeu. nov. 16 18:40:05 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 5 Nom:  Type:   Date: jeu. nov. 16 18:42:28 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: test Type: test Date: jeu. nov. 16 18:42:43 2023 Action: Ajout Cout: 10 Status: test Durabilite: test
+ID: 5 Nom: test1 Type:  Date: jeu. nov. 16 18:42:51 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 5 Nom:  Type:   Date: jeu. nov. 16 18:43:20 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: test Type: test Date: jeu. nov. 16 18:43:31 2023 Action: Ajout Cout: 1 Status: test Durabilite: test
+ID: 5 Nom: test1 Type:  Date: jeu. nov. 16 18:43:39 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 5 Nom:  Type:   Date: jeu. nov. 16 18:49:57 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: var Type: var Date: jeu. nov. 16 18:50:08 2023 Action: Ajout Cout: 1 Status: var Durabilite: var
+ID: 5 Nom:  Type:  Date: jeu. nov. 16 18:50:15 2023 Action: Modification Cout: 0 Status:  Durabilite: varaaa
+ID: 5 Nom:  Type:   Date: jeu. nov. 16 19:08:20 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: zk Type: zk Date: jeu. nov. 16 19:08:33 2023 Action: Ajout Cout: 1 Status: zk Durabilite: zk
+ID: 5 Nom: zkr Type:  Date: jeu. nov. 16 19:08:37 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 1 Nom:  Type:   Date: jeu. nov. 16 19:24:53 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom:  Type:   Date: jeu. nov. 16 19:24:55 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 1 Nom: HP Pavillon Type: Ordinateur Date: jeu. nov. 16 19:25:19 2023 Action: Ajout Cout: 300 Status: Working Durabilite: 4 ans
+ID: 1 Nom: HP Pavillon G6 Type:  Date: jeu. nov. 16 19:25:32 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 1 Nom: cv Type: cv Date: jeu. nov. 16 19:28:39 2023 Action: Ajout Cout: 1 Status: cv Durabilite: cv
+ID: 1 Nom: cvv Type:  Date: jeu. nov. 16 19:28:43 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 1 Nom:  Type:   Date: jeu. nov. 16 19:32:05 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 1 Nom: ss Type: ss Date: jeu. nov. 16 19:32:14 2023 Action: Ajout Cout: 1 Status: ss Durabilite: ss
+ID: 1 Nom: a Type: a Date: jeu. nov. 16 19:39:33 2023 Action: Ajout Cout: 1 Status: a Durabilite: a
+ID: 1 Nom:  Type:  Date: jeu. nov. 16 19:52:33 2023 Action: Modification Cout: 0 Status: Ordinateur Durabilite: 
+ID: 1 Nom:  Type:   Date: jeu. nov. 16 20:01:03 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 1 Nom: BPM Type: BPM Date: jeu. nov. 16 20:01:28 2023 Action: Ajout Cout: 1 Status: BPM Durabilite: BPM
+ID: 1 Nom: AZ Type:  Date: jeu. nov. 16 20:25:42 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 1 Nom:  Type:   Date: ven. nov. 17 09:44:43 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 1 Nom: HP Pavillon Type: Ordinateur Date: ven. nov. 17 09:45:02 2023 Action: Ajout Cout: 230 Status: Working Durabilite: 4 ans
+ID: 1 Nom: HP Pav Type:  Date: ven. nov. 17 09:45:09 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 1 Nom:  Type:   Date: ven. nov. 17 09:52:29 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 1 Nom: HP Type: Ordinateur Date: ven. nov. 17 09:52:46 2023 Action: Ajout Cout: 200 Status: Working Durabilite: 4 ans
+ID: 1 Nom: HP Pavillon Type:   Date: ven. nov. 17 09:53:08 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: Laser Print Type: Imprimante Date: ven. nov. 17 10:20:37 2023 Action: Ajout Cout: 200 Status: Working Durabilite: 1 an
+ID: 5 Nom: Laser Print v2 Type:   Date: ven. nov. 17 10:20:51 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: azdaddzaadz Type: zdadz Date: ven. nov. 17 10:22:22 2023 Action: Modification Cout: 213 Status: zdadza Durabilite: zdadz
+ID: 5 Nom: hjjh Type:   Date: ven. nov. 17 10:23:58 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 5 Nom:  Type:   Date: ven. nov. 17 10:25:31 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: HP Print Type: Imprimante Date: ven. nov. 17 10:25:49 2023 Action: Ajout Cout: 240 Status: Working Durabilite: 2 ans
+ID: 5 Nom: hhh Type:   Date: ven. nov. 17 10:31:57 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: B Type:   Date: ven. nov. 17 10:32:10 2023 Action: Modification Cout: 0 Status:  Durabilite: bb
+ID: 6 Nom: AA Type: ze Date: ven. nov. 17 10:36:43 2023 Action: Ajout Cout: 5 Status: d Durabilite: d
+ID: 6 Nom: zzzzzzzzzzzzz Type:   Date: ven. nov. 17 10:37:56 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 1 Nom:  Type:   Date: ven. nov. 17 10:40:25 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 6 Nom:  Type:   Date: ven. nov. 17 10:40:27 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom:  Type:   Date: ven. nov. 17 10:40:30 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 1 Nom: HP Pavillon Type: Ordinateur Date: ven. nov. 17 10:40:52 2023 Action: Ajout Cout: 350 Status: Working Durabilite: 4 ans
+ID: 5 Nom: ZZZZ Type: aa Date: ven. nov. 17 10:41:10 2023 Action: Ajout Cout: 1 Status: aa Durabilite: aa
+ID: 5 Nom:  Type:   Date: ven. nov. 17 10:41:15 2023 Action: Modification Cout: 0 Status:  Durabilite: 1 an
+ID: 5 Nom:  Type:   Date: ven. nov. 17 10:41:21 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 5 Nom: AA Type: AA Date: ven. nov. 17 10:42:08 2023 Action: Ajout Cout: 1 Status: AA Durabilite: AA
+ID: 5 Nom: ZZ Type:   Date: ven. nov. 17 10:42:12 2023 Action: Modification Cout: 0 Status:  Durabilite: 
+ID: 5 Nom:  Type:   Date: ven. nov. 17 12:24:47 2023 Action: Suppression Cout: 0 Status:  Durabilite: 
+ID: 12 Nom: HP Type: X Date: ven. nov. 17 12:26:19 2023 Action: Ajout Cout: 1 Status: X Durabilite: X
+ID: 1 Nom: med Type:   Date: Wed Dec 6 01:36:33 2023 Action: Modification Cout: 0 Status:  Durabilite: 
